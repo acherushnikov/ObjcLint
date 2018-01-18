@@ -19,7 +19,6 @@ blocker
 critical
 - обращение к propety в init, dealloc, getter, setter
 - объявление ivar в интерфейсе
-- использование @selector() без реализации
 - отсутствие проверки вызова optional метода делегата
 - обработка ошибок if (![self trySomethingWithError:&error])
 
